@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MrHayz
 - 👀 I’m interested in programs that help people's daily life.
-- 🌱 I’m currently pursuing a Bachelor's at Northeastern Illinois University
+<!--- 🌱 I’m currently pursuing a Bachelor's at Northeastern Illinois University
+--->
 
 
 <!---
